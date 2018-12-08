@@ -1,6 +1,6 @@
-type:docx
-teacher:Krinkin K.V.
-student:Glazunov S.A.
-size:14
-insert:test.c
+type docx
+teacher Krinkin K.V.
+student Glazunov S.A.
+size 14
+insert test.c
 
