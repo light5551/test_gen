@@ -1,6 +1,0 @@
-type docx
-teacher Krinkin_K.V.
-student Glazunov_S.A.
-size 14
-insert test.c
-
