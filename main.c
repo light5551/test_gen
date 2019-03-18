@@ -9,6 +9,8 @@ int comp (const int *, const int *);
 
 int main(void)
 {
+test1
+test2
 int i;
 printf("Original array: ");
 for (i=0; i<10; i + +) printf("%d ",num[i]);
