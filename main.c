@@ -6,7 +6,7 @@ int num[10] = {
 };
 
 int comp (const int *, const int *);
-
+//some test for prs
 int main(void)
 {
 test1
