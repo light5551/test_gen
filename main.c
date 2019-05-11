@@ -6,11 +6,11 @@ int num[10] = {
 };
 
 int comp (const int *, const int *);
-
+//some test for prs
 int main(void)
 {
 test1
-test3
+test4
 int i;
 printf("Original array: ");
 for (i=0; i<10; i + +) printf("%d ",num[i]);
