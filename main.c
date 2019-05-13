@@ -4,7 +4,7 @@
 int num[10] = {
 1,3,6,5,8,7,9,6,2,0
 };
-//bu bu bu
+//after bu bu 
 int comp (const int *, const int *);
 //some test for prs
 int main(void)
