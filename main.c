@@ -12,11 +12,11 @@ int main(void)
 int i;
 printf("Original array: ");
 for (i=0; i<10; i + +) printf("%d ",num[i]);
-// first mes in code
+// first change in code
 printf ("vorotnik\n");
 qsort(num, 10, sizeof (int), (int(*) (const void *, const void *)) comp);
 printf("Sorted array: ");
-// second mes in code
+// second change in code
 for(i = 0; i <10; i + + ) printf("%d ", num[i]);
 return 0;
 }
