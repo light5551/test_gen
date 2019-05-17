@@ -9,14 +9,14 @@ int comp (const int *, const int *);
 //some test for prs
 int main(void)
 {
-test1
-test4
 int i;
 printf("Original array: ");
 for (i=0; i<10; i + +) printf("%d ",num[i]);
+// first mes in code
 printf ("vorotnik\n");
 qsort(num, 10, sizeof (int), (int(*) (const void *, const void *)) comp);
 printf("Sorted array: ");
+// second mes in code
 for(i = 0; i <10; i + + ) printf("%d ", num[i]);
 return 0;
 }
