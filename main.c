@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int num[10] = {
-1,3,6,5,8,7,9,6,2,0
+1,3,6,5,8,7,9,6,2,0, 666
 };
 
 int comp (const int *, const int *);
